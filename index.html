@@ -3,13 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>BCP</title>
-  <link rel="stylesheet" href="style.css">
+  <meta name="description" content="Proyecto académico sobre servicios bancarios del BCP, elaborado con HTML5 y CSS3 para la Unidad 2.">
+  <meta name="keywords" content="BCP, servicios bancarios, ahorros, créditos, tarjetas, HTML5, CSS3, diseño web">
+  <meta name="author" content="Estudiante">
+  <title>BCP | Servicios bancarios - Proyecto Unidad 2</title>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
   <header id="cabecera">
     <h1>BCP</h1>
+    <p>Contigo, en cada paso</p>
     <nav id="menu">
       <a href="#servicios" class="enlace">Servicios</a>
       <a href="#multimedia" class="enlace">Multimedia</a>
@@ -18,52 +21,56 @@
   </header>
 
   <main>
-
     <section id="servicios">
       <h2>Nuestros servicios</h2>
-
       <div class="caja">
         <h3>Ahorros</h3>
-        <p>Cuentas para guardar tu dinero de forma segura.</p>
+        <p>Cuentas para guardar tu dinero.</p>
       </div>
-
       <div class="caja">
         <h3>Créditos</h3>
-        <p>Préstamos para vivienda, estudios o negocio.</p>
+        <p>Préstamos para tus proyectos.</p>
       </div>
-
       <div class="caja">
         <h3>Tarjetas</h3>
-        <p>Tarjetas de débito y crédito con beneficios.</p>
+        <p>Tarjetas para compras y pagos.</p>
       </div>
-
       <div class="limpiar"></div>
     </section>
 
     <section id="multimedia">
       <h2>Multimedia</h2>
-
       <h3>Video local</h3>
       <video controls preload="metadata" width="100%">
-        <source src="C:\Users\alumno303b\Desktop\PU2\video.mp4" type="video/mp4">
+        <source src="video.mp4" type="video/mp4">
+        Tu navegador no puede reproducir este video.
       </video>
 
       <h3>Audio local</h3>
-      <audio controls preload="none">
-        <source src="C:\Users\alumno303b\Desktop\PU2\bcp-peru.mp3" type="audio/mpeg">
+      <audio controls preload="metadata">
+        <source src="bcp-peru.mp3" type="audio/mpeg">
+        Tu navegador no puede reproducir este audio.
       </audio>
-    </div>
+
+      <h3>Video de YouTube</h3>
+      <div class="video-youtube">
+        <iframe
+          src="https://www.youtube-nocookie.com/embed/aqz-KE-bpKQ"
+          title="Video de demostración"
+          loading="lazy"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </section>
 
     <section id="contacto">
       <h2>Contacto</h2>
-      <a href="mailto:contactanosBCP@gmail.com" class="boton">Escríbenos</a>
+      <a href="https://www.viabcp.com/" class="boton" target="_blank" rel="noopener noreferrer">Web oficial del BCP</a>
     </section>
-
   </main>
 
   <footer>
-    <p>Lima, Perú. BANCO DE CREDITO DEL PERU</p>
+    <p>Lima, Perú · Banco de Crédito del Perú</p>
   </footer>
-
 </body>
 </html>
