@@ -17,10 +17,9 @@ Página web académica de demostración sobre servicios bancarios del BCP, desar
 - `bcp-peru.mp3`: audio local.
 
 ## Publicación
-Cuando publiques el repositorio con GitHub Pages, reemplaza los enlaces de abajo por tus URLs reales.
 
 - Repositorio: `https://github.com/TU-USUARIO/disenoweb-parcial-TUAPELLIDO`
-- Sitio web: `https://TU-USUARIO.github.io/disenoweb-parcial-TUAPELLIDO/`
+- Sitio web: [`https://TU-USUARIO.github.io/disenoweb-parcial-TUAPELLIDO/`](https://liuninantaygon-source.github.io/hola/)
 
 ## Nota
 Proyecto educativo. No representa un sitio oficial del BCP ni ofrece asesoría financiera.
