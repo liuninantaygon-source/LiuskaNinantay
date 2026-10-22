@@ -18,5 +18,5 @@ Página web académica de demostración sobre servicios bancarios del BCP, desar
 
 ## Publicación
 
-- Repositorio: [`https://github.com/TU-USUARIO/disenoweb-parcial-TUAPELLIDO`](https://github.com/liuninantaygon-source/LiuskaNinantay)
-- Sitio web: [`https://TU-USUARIO.github.io/disenoweb-parcial-TUAPELLIDO/`](https://liuninantaygon-source.github.io/hola/)
+- Repositorio: https://github.com/liuninantaygon-source/LiuskaNinantay
+- Sitio web: https://liuninantaygon-source.github.io/hola/
