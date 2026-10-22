@@ -18,5 +18,5 @@ Página web académica de demostración sobre servicios bancarios del BCP, desar
 
 ## Publicación
 
-- Repositorio: https://github.com/liuninantaygon-source/LiuskaNinantay
-- Sitio web: (https://liuninantaygon-source.github.io/disenoweb-NINANTAY/)
+- Repositorio: https://github.com/liuninantaygon-source/LIUSKA-NINANTAY-GONZALES
+- Sitio web: https://liuninantaygon-source.github.io/disenoweb-NINANTAY/
